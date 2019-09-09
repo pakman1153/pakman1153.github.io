@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Fall Pumpkins"
-date: 2013-05-22
+date: 2019-9-9
 excerpt: "Examples of our most recent pumkins. Enjoy "
-tags: [sample post, images, test]
+tags: [Pupkins, images, Sample]
 comments: true
 ---
 
