@@ -9,7 +9,7 @@ comments: true
 
 Here are some examples of our recent Pumpkins for your fall decore. 
 
-<center>### !! Pumkins !!</center>
+### !! Pumkins !!
 
 <figure>
     <a href="https://i.pinimg.com/564x/e7/51/31/e75131d11f2c92dc2523a554b9613fcb.jpg"><img src="https://i.pinimg.com/564x/e7/51/31/e75131d11f2c92dc2523a554b9613fcb.jpg"></a>
