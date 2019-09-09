@@ -2,7 +2,7 @@
 layout: post
 title: "Fall Pumpkins"
 date: 2019-9-9
-excerpt: "Examples of our most recent pumkins. Enjoy "
+excerpt: "Examples of our most recent pumpkins. Enjoy "
 tags: [Pumpkins, images, Sample]
 comments: true
 ---
