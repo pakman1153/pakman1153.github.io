@@ -5,7 +5,7 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: https://github.com/pakman1153/pakman1153.github.io/tree/master/assets/*
+  path: https://github.com/pakman1153/pakman1153.github.io/tree/master/assets
   label: Assets
   create: all
   match: "**/*"
