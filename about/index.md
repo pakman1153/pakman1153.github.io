@@ -8,4 +8,4 @@ date: {}
 comments: false
 
 ---
-<center><a href="https://pakman1153.github.io/"><b>KGW</b></a> is a small family run glass blowing studio located in Manassas Virginia.</center>
+<center><a href="http://Klaco.com"><b>KGW</b></a> is a small family run glass blowing studio located in Manassas Virginia.</center>
